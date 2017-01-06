@@ -1,0 +1,264 @@
+Course Code,Department,Cluster Name,Is Block,Domain,Student Name,Work Hours MT,Position,Team Number
+ACCTG 180,Accounting,Accounting (A),,,Matthew Jones,,false,1
+ACCTG 201,Accounting,Accounting (A),,,Matthew Jones,,false,1
+NUTR 150,Animal & Food Science,Animal & Food Science (A),,,Matthew Jones,,false,1
+NUTR 200,Animal & Food Science,Animal & Food Science (A),,,Matthew Jones,,false,1
+NURS 340,Nursing,Nursing (A),,,Sara Balter,,false,1
+NURS 400,Nursing,Nursing (A),,,Sara Balter,,false,1
+PH 105,Physics,Physics (A),,,Sara Balter,,false,1
+PH 121,Physics,Physics (A),,,Sara Balter,,false,1
+PSYCH 112,Psychology,Psychology (A),,,Sara Balter,,false,1
+PSYCH 311,Psychology,Psychology (A),,,Sara Balter,,false,1
+PSYCH 111,Psychology,Psychology (A),,,Sara Balter,,false,1
+PSYCH 201,Psychology,Psychology (A),,,Sara Balter,,false,1
+PSYCH 302,Psychology,Psychology (A),,,Sara Balter,,false,1
+FDREL 275,Religious Education,Religious Education (A),,,Sara Balter,,false,1
+FDREL 301,Religious Education,Religious Education (A),,,Sara Balter,,false,1
+FDREL 302,Religious Education,Religious Education (A),,,Sara Balter,,false,1
+FDREL 130 - Block 1,Religious Education,Religious Education (A),,,Sara Balter,,false,1
+FDREL 130 - Block 2,Religious Education,Religious Education (A),,,Sara Balter,,false,1
+FDREL 200,Religious Education,Religious Education (A),,,Sara Balter,,false,1
+FDREL 200 - G,Religious Education,Religious Education (A),,,Sara Balter,,false,1
+FDREL 225,Religious Education,Religious Education (A),,,Sara Balter,,false,1
+FDREL 261,Religious Education,Religious Education (A),,,Sara Balter,,false,1
+FDREL 324,Religious Education,Religious Education (A),,,Sara Balter,,false,1
+FDREL 325,Religious Education,Religious Education (A),,,Sara Balter,,false,1
+B 301,Business Management,Business Management (A),,,Anne Chambers,,false,1
+B 410,Business Management,Business Management (A),,,Anne Chambers,,false,1
+B 433,Business Management,Business Management (A),,,Anne Chambers,,false,1
+B 320,Business Management,Business Management (A),,,Anne Chambers,,false,1
+B 100,Business Management,Business Management (A),,,Anne Chambers,,false,1
+FDSCI 205,Foundations,Foundations (A),,,Jing Song Huang,,false,1
+FDAMF 101,Foundations,Foundations (A),,,Jing Song Huang,,false,1
+FDSCI 101,Foundations,Foundations (A),,,Jing Song Huang,,false,1
+FDINT 211,Foundations,Foundations (A),,,Jing Song Huang,,false,1
+FDHUM 110,Foundations,Foundations (A),,,Jing Song Huang,,false,1
+GS 120 - G,General Studies,General Studies (A),,,Jing Song Huang,,false,1
+GS 120L - G,General Studies,General Studies (A),,,Jing Song Huang,,false,1
+FDREL 121,Religious Education,Religious Education (A),,,Jared Moreno Acosta,,false,1
+FDREL 122,Religious Education,Religious Education (A),,,Jared Moreno Acosta,,false,1
+FDREL 212,Religious Education,Religious Education (A),,,Jared Moreno Acosta,,false,1
+FDREL 212 - Block 2,Religious Education,Religious Education (A),,,Jared Moreno Acosta,,false,1
+FDREL 211,Religious Education,Religious Education (A),,,Jared Moreno Acosta,,false,1
+FDREL 211 - Block 2,Religious Education,Religious Education (A),,,Jared Moreno Acosta,,false,1
+FDREL 333,Religious Education,Religious Education (A),,,Jared Moreno Acosta,,false,1
+FDREL 250,Religious Education,Religious Education (A),,,Jared Moreno Acosta,,false,1
+FDREL 275 - G,Religious Education,Religious Education (A),,,Jared Moreno Acosta,,false,1
+SOC 311,Sociology & Social Work,Sociology & Social Work (A),,,Jared Moreno Acosta,,false,1
+SOC 111,Sociology & Social Work,Sociology & Social Work (A),,,Jared Moreno Acosta,,false,1
+SOC 323,Sociology & Social Work,Sociology & Social Work (A),,,Jared Moreno Acosta,,false,1
+ANTH 101,Sociology & Social Work,Sociology & Social Work (A),,,Jared Moreno Acosta,,false,1
+SOC 112,Sociology & Social Work,Sociology & Social Work (A),,,Jared Moreno Acosta,,false,1
+SW 260,Sociology & Social Work,Sociology & Social Work (A),,,Jared Moreno Acosta,,false,1
+ED 312,Teacher Education,Teacher Education (A),,,Jared Moreno Acosta,,false,1
+SPED 200,Teacher Education,Teacher Education (A),,,Jared Moreno Acosta,,false,1
+SPED 441,Teacher Education,Teacher Education (A),,,Jared Moreno Acosta,,false,1
+ED 200,Teacher Education,Teacher Education (A),,,Jared Moreno Acosta,,false,1
+ED 202,Teacher Education,Teacher Education (A),,,Jared Moreno Acosta,,false,1
+TA 115,Theatre and Dance,Theatre and Dance (A),,,Jared Moreno Acosta,,false,1
+HS 240,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Camille Stiles,,false,1
+HS 370,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Camille Stiles,,false,1
+HS 480,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Camille Stiles,,false,1
+POLSC 170,Hist Geog & PoliSci,Hist Geog & PoliSci (A),,,Camille Stiles,,false,1
+POLSC 150,Hist Geog & PoliSci,Hist Geog & PoliSci (A),,,Camille Stiles,,false,1
+POLSC 110,Hist Geog & PoliSci,Hist Geog & PoliSci (A),,,Camille Stiles,,false,1
+FAML 430,Home & Family,Home & Family (A),,,Camille Stiles,,false,1
+FCS 101,Home & Family,Home & Family (A),,,Camille Stiles,,false,1
+FAML 300,Home & Family,Home & Family (A),,,Camille Stiles,,false,1
+FAML 445,Home & Family,Home & Family (A),,,Camille Stiles,,false,1
+FAML 150 - Block 1,Home & Family,Home & Family (A),,,Camille Stiles,,false,1
+FAML 150 - Block 2,Home & Family,Home & Family (A),,,Camille Stiles,,false,1
+FAML 400,Home & Family,Home & Family (A),,,Camille Stiles,,false,1
+FAML 100,Home & Family,Home & Family (A),,,Camille Stiles,,false,1
+ART 337R,Art,Art (A),,,Mackenzy Taylor,,false,3
+ART 107,Art,Art (A),,,Mackenzy Taylor,,false,3
+ART 110,Art,Art (A),,,Mackenzy Taylor,,false,3
+ART 331R,Art,Art (A),,,Mackenzy Taylor,,false,3
+GS 101,General Studies,General Studies (A),,,Scott O'Neal,,false,3
+GS 294,General Studies,General Studies (A),,,Scott O'Neal,,false,3
+GS 111 - Block 1,General Studies,General Studies (A),,,Scott O'Neal,,false,3
+GS 111 - Block 2,General Studies,General Studies (A),,,Scott O'Neal,,false,3
+GS 105,General Studies,General Studies (A),,,Scott O'Neal,,false,3
+GEOL 111,Geology,Geology (A),,,Scott O'Neal,,false,3
+RM 304,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Scott O'Neal,,false,3
+HS 391,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Scott O'Neal,,false,3
+HRHP 131,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Scott O'Neal,,false,3
+RM 373R,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Scott O'Neal,,false,3
+RM 471,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Scott O'Neal,,false,3
+RM 472,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Seth Childers,,false,3
+RM 473,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Seth Childers,,false,3
+HS 390,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Seth Childers,,false,3
+HS 401,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Seth Childers,,false,3
+HS 420,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Seth Childers,,false,3
+HS 460,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Seth Childers,,false,3
+MA 105,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Seth Childers,,false,3
+MA 106,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Seth Childers,,false,3
+MA 107,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Seth Childers,,false,3
+MA 111,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Seth Childers,,false,3
+MA 205,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Seth Childers,,false,3
+ENG 335,English,English (A),,,Jason Braithwaite,,false,3
+ENG 332,English,English (A),,,Jason Braithwaite,,false,3
+FDENG 101,English,English (A),,,Jason Braithwaite,,false,3
+ENG 252,English,English (A),,,Jason Braithwaite,,false,3
+ENG 355,English,English (A),,,Jason Braithwaite,,false,3
+ENG 106 - G,English,English (A),,,Jason Braithwaite,,false,3
+ENG 106 - NG,English,English (A),,,Jason Braithwaite,,false,3
+ENG 325,English,English (A),,,Jason Braithwaite,,false,3
+ENG 314,English,English (A),,,Jason Braithwaite,,false,3
+FHGEN 130,Interdiscip Studies,Interdiscip Studies (A),,,Katy Kempton,,false,3
+FHGEN 140,Interdiscip Studies,Interdiscip Studies (A),,,Katy Kempton,,false,3
+FHGEN 160,Interdiscip Studies,Interdiscip Studies (A),,,Katy Kempton,,false,3
+FHGEN 211,Interdiscip Studies,Interdiscip Studies (A),,,Katy Kempton,,false,3
+FHGEN 212,Interdiscip Studies,Interdiscip Studies (A),,,Katy Kempton,,false,3
+FHGEN 251A,Interdiscip Studies,Interdiscip Studies (A),,,Katy Kempton,,false,3
+FHGEN 251B,Interdiscip Studies,Interdiscip Studies (A),,,Katy Kempton,,false,3
+FHGEN 252C,Interdiscip Studies,Interdiscip Studies (A),,,Katy Kempton,,false,3
+FHGEN 252D,Interdiscip Studies,Interdiscip Studies (A),,,Katy Kempton,,false,3
+FHGEN 270,Interdiscip Studies,Interdiscip Studies (A),,,Katy Kempton,,false,3
+FHGEN 399,Interdiscip Studies,Interdiscip Studies (A),,,Katy Kempton,,false,3
+SPAN 101,Lang & Intnl Studies,Lang & Intnl Studies (A),,,Katy Kempton,,false,3
+SPAN 102,Lang & Intnl Studies,Lang & Intnl Studies (A),,,Katy Kempton,,false,3
+SPAN 302,Lang & Intnl Studies,Lang & Intnl Studies (A),,,Katy Kempton,,false,3
+TESOL 102,Lang & Intnl Studies,Lang & Intnl Studies (A),,,Katy Kempton,,false,3
+TESOL 101,Lang & Intnl Studies,Lang & Intnl Studies (A),,,Katy Kempton,,false,3
+TESOL 104,Lang & Intnl Studies,Lang & Intnl Studies (A),,,Katy Kempton,,false,3
+LR 111 - Block 1,Library,Library (A),,,Katy Kempton,,false,3
+LR 111 - Block 2,Library,Library (A),,,Katy Kempton,,false,3
+B 100 - Block 1,Business Management,Business Management (A),,,Felipe Chora Chavez,,false,3
+B 100 - Block 2,Business Management,Business Management (A),,,Felipe Chora Chavez,,false,3
+B 361,Business Management,Business Management (A),,,Felipe Chora Chavez,,false,3
+B 483,Business Management,Business Management (A),,,Felipe Chora Chavez,,false,3
+B 341,Business Management,Business Management (A),,,Felipe Chora Chavez,,false,3
+FAML 360,Home & Family,Home & Family (A),,,Ashwini Krishnan,,false,3
+FAML 160,Home & Family,Home & Family (A),,,Ashwini Krishnan,,false,3
+CHILD 320,Home & Family,Home & Family (A),,,Ashwini Krishnan,,false,3
+FCS 340,Home & Family,Home & Family (A),,,Ashwini Krishnan,,false,3
+CHILD 300,Home & Family,Home & Family (A),,,Ashwini Krishnan,,false,3
+CHILD 310,Home & Family,Home & Family (A),,,Ashwini Krishnan,,false,3
+CHILD 210,Home & Family,Home & Family (A),,,Ashwini Krishnan,,false,3
+FAML 220,Home & Family,Home & Family (A),,,Ashwini Krishnan,,false,3
+FAML 460,Home & Family,Home & Family (A),,,Ashwini Krishnan,,false,3
+FAML 200,Home & Family,Home & Family (A),,,Ashwini Krishnan,,false,3
+FHGEN 111,Interdiscip Studies,Interdiscip Studies (A),,,Ashwini Krishnan,,false,3
+FHGEN 112,Interdiscip Studies,Interdiscip Studies (A),,,Ashwini Krishnan,,false,3
+FHGEN 120,Interdiscip Studies,Interdiscip Studies (A),,,Ashwini Krishnan,,false,3
+ENG 106L - G,English,English (A),,,Meghan Cottam,,false,3
+ENG 107,English,English (A),,,Meghan Cottam,,false,3
+ENG 251,English,English (A),,,Meghan Cottam,,false,3
+FDENG 301,English,English (A),,,Meghan Cottam,,false,3
+FDSCI 201,Foundations,Foundations (A),,,Meghan Cottam,,false,3
+FDSCI 203,Foundations,Foundations (A),,,Meghan Cottam,,false,3
+FDWLD 101,Foundations,Foundations (A),,,Meghan Cottam,,false,3
+FDWLD 201,Foundations,Foundations (A),,,Meghan Cottam,,false,3
+CS 213,Computer Sci & Eng,Computer Sci & Eng (A),,,Seth Benson,,false,3
+CS 235,Computer Sci & Eng,Computer Sci & Eng (A),,,Seth Benson,,false,3
+CS 371,Computer Sci & Eng,Computer Sci & Eng (A),,,Seth Benson,,false,3
+CS 416,Computer Sci & Eng,Computer Sci & Eng (A),,,Seth Benson,,false,3
+CS 470,Computer Sci & Eng,Computer Sci & Eng (A),,,Seth Benson,,false,3
+ECEN 160,Computer Sci & Eng,Computer Sci & Eng (A),,,Seth Benson,,false,3
+CONST 320,Design & Const Mgmt,Design & Const Mgmt (A),,,Seth Benson,,false,3
+ECON 151,Economics,Economics (A),,,Seth Benson,,false,3
+ECON 150,Economics,Economics (A),,,Seth Benson,,false,3
+AGBUS 105,Economics,Economics (A),,,Seth Benson,,false,3
+AGBUS 180A,Economics,Economics (A),,,Seth Benson,,false,3
+AGBUS 147,Economics,Economics (A),,,Seth Benson,,false,3
+AGBUS 180B,Economics,Economics (A),,,Seth Benson,,false,3
+B 428,Business Management,Business Management (A),,,Emily Galbraith,,false,3
+B 401,Business Management,Business Management (A),,,Emily Galbraith,,false,3
+B 240,Business Management,Business Management (A),,,Emily Galbraith,,false,3
+B 275,Business Management,Business Management (A),,,Emily Galbraith,,false,3
+2,Business Management ,Business Management  (A),,,Johnna Franks,,false,2
+4,Languages & Internationa ,Languages & Internationa  (A),,,Johnna Franks,,false,2
+ACCTG 205,Accounting,Accounting (A),,,Johnna Franks,,false,2
+ACCTG 202,Accounting,Accounting (A),,,Johnna Franks,,false,2
+B 183,Business Management,Business Management (A),,,Hannah Spear,,false,2
+B 283,Business Management,Business Management (A),,,Hannah Spear,,false,2
+B 201,Business Management,Business Management (A),,,Hannah Spear,,false,2
+B 211,Business Management,Business Management (A),,,Hannah Spear,,false,2
+B 380,Business Management,Business Management (A),,,Hannah Spear,,false,2
+CHEM 101,Chemistry,Chemistry (A),,,Hannah Spear,,false,2
+CHEM 101L,Chemistry,Chemistry (A),,,Hannah Spear,,false,2
+COMM 102,Communication,Communication (A),,,Hannah Spear,,false,2
+COMM 450,Communication,Communication (A),,,Hannah Spear,,false,2
+BIO 264L,Biology,Biology (A),,,Taylor Scott,,false,2
+BIO 265L,Biology,Biology (A),,,Taylor Scott,,false,2
+BIO 381,Biology,Biology (A),,,Taylor Scott,,false,2
+BIO 375,Biology,Biology (A),,,Taylor Scott,,false,2
+BIO 264,Biology,Biology (A),,,Taylor Scott,,false,2
+CIT 352,Computer Info Technology,Computer Info Technology (A),,,JJ Aragon,,false,2
+CIT 353,Computer Info Technology,Computer Info Technology (A),,,JJ Aragon,,false,2
+CIT 336,Computer Info Technology,Computer Info Technology (A),,,JJ Aragon,,false,2
+CIT 110,Computer Info Technology,Computer Info Technology (A),,,JJ Aragon,,false,2
+WDD 100,Computer Info Technology,Computer Info Technology (A),,,JJ Aragon,,false,2
+CS 165,Computer Sci & Eng,Computer Sci & Eng (A),,,JJ Aragon,,false,2
+CS 246,Computer Sci & Eng,Computer Sci & Eng (A),,,JJ Aragon,,false,2
+CS 313,Computer Sci & Eng,Computer Sci & Eng (A),,,JJ Aragon,,false,2
+CS 308,Computer Sci & Eng,Computer Sci & Eng (A),,,JJ Aragon,,false,2
+ECEN 150,Computer Sci & Eng,Computer Sci & Eng (A),,,JJ Aragon,,false,2
+CS 124,Computer Sci & Eng,Computer Sci & Eng (A),,,JJ Aragon,,false,2
+COMM 150,Communication,Communication (A),,,Nate Hjorth,,false,2
+COMM 175,Communication,Communication (A),,,Nate Hjorth,,false,2
+COMM 250,Communication,Communication (A),,,Nate Hjorth,,false,2
+COMM 273,Communication,Communication (A),,,Nate Hjorth,,false,2
+COMM 125,Communication,Communication (A),,,Nate Hjorth,,false,2
+COMM 130,Communication,Communication (A),,,Nate Hjorth,,false,2
+COMM 307,Communication,Communication (A),,,Nate Hjorth,,false,2
+COMM 352,Communication,Communication (A),,,Nate Hjorth,,false,2
+COMM 310,Communication,Communication (A),,,Nate Hjorth,,false,2
+COMM 289,Communication,Communication (A),,,Nate Hjorth,,false,2
+COMM 111,Communication,Communication (A),,,Nate Hjorth,,false,2
+MATH 100G - G,Mathematics,Mathematics (A),,,Jonathan Manoa,,false,2
+MATH 100L - G,Mathematics,Mathematics (A),,,Jonathan Manoa,,false,2
+MATH 221A,Mathematics,Mathematics (A),,,Jonathan Manoa,,false,2
+MATH 221B,Mathematics,Mathematics (A),,,Jonathan Manoa,,false,2
+MATH 221C,Mathematics,Mathematics (A),,,Jonathan Manoa,,false,2
+FDMAT 108,Mathematics,Mathematics (A),,,Jonathan Manoa,,false,2
+FDMAT 112,Mathematics,Mathematics (A),,,Jonathan Manoa,,false,2
+MATH 100B,Mathematics,Mathematics (A),,,Jonathan Manoa,,false,2
+ME 201,Mechanical Engineering,Mechanical Engineering (A),,,Jonathan Manoa,,false,2
+AUTO 125,Mechanical Engineering,Mechanical Engineering (A),,,Jonathan Manoa,,false,2
+NURS 338,Nursing,Nursing (A),,,Jonathan Manoa,,false,2
+NURS 316,Nursing,Nursing (A),,,Jonathan Manoa,,false,2
+NURS 449,Nursing,Nursing (A),,,Jonathan Manoa,,false,2
+NURS 450,Nursing,Nursing (A),,,Jonathan Manoa,,false,2
+B 120,Business Management,Business Management (A),,,Juan Alvarez Varas,,false,4
+B 250,Business Management,Business Management (A),,,Juan Alvarez Varas,,false,4
+B 383,Business Management,Business Management (A),,,Juan Alvarez Varas,,false,4
+B 101,Business Management,Business Management (A),,,Juan Alvarez Varas,,false,4
+CIT 261,Computer Info Technology,Computer Info Technology (A),,,Oaklie Wayman,,false,4
+CIT 360,Computer Info Technology,Computer Info Technology (A),,,Oaklie Wayman,,false,4
+CIT 160,Computer Info Technology,Computer Info Technology (A),,,Oaklie Wayman,,false,4
+CIT 380,Computer Info Technology,Computer Info Technology (A),,,Oaklie Wayman,,false,4
+CIT 381,Computer Info Technology,Computer Info Technology (A),,,Oaklie Wayman,,false,4
+CIT 260,Computer Info Technology,Computer Info Technology (A),,,Oaklie Wayman,,false,4
+CIT 270,Computer Info Technology,Computer Info Technology (A),,,Oaklie Wayman,,false,4
+CIT 225,Computer Info Technology,Computer Info Technology (A),,,Oaklie Wayman,,false,4
+CIT 262,Computer Info Technology,Computer Info Technology (A),,,Oaklie Wayman,,false,4
+CIT 325,Computer Info Technology,Computer Info Technology (A),,,Oaklie Wayman,,false,4
+CIT 111,Computer Info Technology,Computer Info Technology (A),,,Oaklie Wayman,,false,4
+ART 160,Art,Art (A),,,Jacob Patterson,,false,4
+ART 230,Art,Art (A),,,Jacob Patterson,,false,4
+ART 235,Art,Art (A),,,Jacob Patterson,,false,4
+ART 130,Art,Art (A),,,Jacob Patterson,,false,4
+BIO 265,Biology,Biology (A),,,Austin Swenson,,false,4
+BIO 221,Biology,Biology (A),,,Austin Swenson,,false,4
+BIO 230,Biology,Biology (A),,,Austin Swenson,,false,4
+BIO 475,Biology,Biology (A),,,Austin Swenson,,false,4
+B 321,Business Management,Business Management (A),,,Austin Swenson,,false,4
+ESS 375,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Richlue Kpakor,,false,4
+HS 320,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Richlue Kpakor,,false,4
+RM 307,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Richlue Kpakor,,false,4
+HS 280,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Richlue Kpakor,,false,4
+HS 310,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Richlue Kpakor,,false,4
+HS 285,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Richlue Kpakor,,false,4
+HS 375,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Richlue Kpakor,,false,4
+HS 378,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Richlue Kpakor,,false,4
+HS 425,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Richlue Kpakor,,false,4
+HS 345,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Richlue Kpakor,,false,4
+HS 465,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),,,Richlue Kpakor,,false,4
+B 370,Business Management,Business Management (A),,,Cole Herrin,,false,4
+B 424,Business Management,Business Management (A),,,Cole Herrin,,false,4
+B 424D,Business Management,Business Management (A),,,Cole Herrin,,false,4
+B 448,Business Management,Business Management (A),,,Cole Herrin,,false,4
+B 129,Business Management,Business Management (A),,,Cole Herrin,,false,4
+B 215,Business Management,Business Management (A),,,Cole Herrin,,false,4

@@ -3,18 +3,24 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>A Pen by SitePoint</title>
+    <title>Portfolio Generator</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script src='handlebars-v4.0.5.js'></script>
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.0/handlebars.min.js'></script>
     <script src="js/index.js"></script>
+    <script src="../json.js"></script>
+    <script src="../port.js"></script>
+    <script src="js/csv.js"></script>
+    
+
 </head>
 
 <body>
-    <script id="handlebars-demo" type="text/x-handlebars-template">
-        <div> Hello, My name is
-            <h1>{{fullname name}}.</h1>I am a
-            <h2>{{occupation}}.</h2> 
-            I also love {{#list hobbies}}{{activity}} in {{location}}{{/list}}</div>
+    <script id="portfolio-display" type="text/x-handlebars-template">
+        <div>
+            {{#list port}}
+            
+            {{/list}}
+        </div>
     </script>
 </body>
 
