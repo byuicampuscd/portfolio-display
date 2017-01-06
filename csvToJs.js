@@ -31,7 +31,9 @@ for (teamKey in teams) {
     team = teams[teamKey]
     for (personKey in team) {
         person = team[personKey]
-        for (clusterKey in person.courses) {
+        
+        if(person.courses){
+            for (clusterKey in person.courses) {
             cluster = person.courses[clusterKey]
             for (courseKey in cluster) {
                 course = cluster[courseKey]
@@ -44,10 +46,23 @@ for (teamKey in teams) {
                     , Domain: parsed[2]
                     , "Student Name": personKey
                     , "Work Hours MT": ""
-                    , "Position": false
+                    , "Position": "Team Member"
                     , "Team Number": Number(teamKey.substr(-1))
                 })
             }
+        } 
+        } else {
+            courses.push({
+                "Course Code": ""
+                    , "Department": ""
+                    , "Cluster Name": ""
+                    , "Is Block": ""
+                    , Domain: ""
+                    , "Student Name": personKey
+                    , "Work Hours MT": ""
+                    , "Position": "Team Lead"
+                    , "Team Number": Number(teamKey.substr(-1))
+            })
         }
     }
 }
