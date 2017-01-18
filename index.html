@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="jquery-ui-1.12.1.custom/jquery-ui.min.css">
     <script src="jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
     <script src="js/index.js"></script>
-    <link rel="stylesheet" href="styles.css"
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
@@ -25,12 +25,15 @@
                         <h5>Assistant Lead: {{"Assistant Lead"}}</h5>
                     </div>
                 </div>  
-                        <div class="content">{{#each TeamMem}}
-                            <strong>{{"Student Name"}}</strong>
-                                {{#each Courses}}
-                                    <p>{{"Course Code"}}</p>
-                                {{/each}}
-                        {{/each}}</div>
+                <div class="content">
+                    {{#each TeamMembers}}
+                    <div class="subContent">
+                        <h6>{{"Student Name"}}</h6>
+                            {{#each Courses}}
+                                <p>{{"Course Code"}} - {{Department}}</p>
+                            {{/each}}
+                    </div>
+                {{/each}}</div>
             {{/each}}
                 </div>
         </div>

@@ -11,7 +11,15 @@
 .ui-widget-content{
     border-width: 3px;
     border-color: #0E1C2F;
+    display: flex;
+    flex-wrap: wrap
 }
+
+.subContent{
+    width: 250px;
+    margin: 20px;
+}
+
 h3{
     margin: 0 0 0;
     display: inline-block;
@@ -30,7 +38,14 @@ h4, h5{
     margin:.3em 0 0;
 }
 
-
+h6{
+    font-size: 1em;
+    margin: 1em 0 0;
+}
+p{
+    margin: 5px 0 0;
+    font-size: 1em;
+}
 .ui-accordion-header-icon{
     vertical-align: top;
     margin-top: 2em;
