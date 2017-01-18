@@ -1,0 +1,292 @@
+Course Code,Department,Cluster Name,Is Block,Domain,Student Name,Work Hours MT,Position,Team
+,,,,,Sam McGrath,8:00 - 11:00 AM,Team Lead,Team 1
+GS 120 - G,General Studies,General Studies (A),FALSE,PATH,Juan Alvarez,8:00 - 11:00 AM,Assistant Lead,Team 1
+GS 120L - G,General Studies,General Studies (A),FALSE,PATH,Juan Alvarez,8:00 - 11:00 AM,Assistant Lead,Team 1
+B 183,Business Management,Business Management (A),FALSE,ONLN,Hannah Spear,8:00 - 11:00 AM,Team Member,Team 1
+B 283,Business Management,Business Management (A),FALSE,ONLN,Hannah Spear,8:00 - 11:00 AM,Team Member,Team 1
+B 201,Business Management,Business Management (A),FALSE,ONLN,Hannah Spear,8:00 - 11:00 AM,Team Member,Team 1
+B 211,Business Management,Business Management (A),FALSE,ONLN,Hannah Spear,8:00 - 11:00 AM,Team Member,Team 1
+B 380,Business Management,Business Management (A),FALSE,ONLN,Hannah Spear,8:00 - 11:00 AM,Team Member,Team 1
+CHEM 101,Chemistry,Chemistry (A),FALSE,ONLN,Hannah Spear,8:00 - 11:00 AM,Team Member,Team 1
+CHEM 101L,Chemistry,Chemistry (A),FALSE,ONLN,Hannah Spear,8:00 - 11:00 AM,Team Member,Team 1
+COMM 102,Communication,Communication (A),FALSE,ONLN,Hannah Spear,8:00 - 11:00 AM,Team Member,Team 1
+COMM 450,Communication,Communication (A),FALSE,ONLN,Hannah Spear,8:00 - 11:00 AM,Team Member,Team 1
+ENG 335,English,English (A),FALSE,ONLN,Jason Braithwaite,8:00 - 11:00 AM,Team Member,Team 1
+ENG 332,English,English (A),FALSE,ONLN,Jason Braithwaite,8:00 - 11:00 AM,Team Member,Team 1
+FDENG 101,English,English (A),FALSE,ONLN,Jason Braithwaite,8:00 - 11:00 AM,Team Member,Team 1
+ENG 252,English,English (A),FALSE,ONLN,Jason Braithwaite,8:00 - 11:00 AM,Team Member,Team 1
+ENG 355,English,English (A),FALSE,ONLN,Jason Braithwaite,8:00 - 11:00 AM,Team Member,Team 1
+ENG 106 - G,English,English (A),FALSE,PATH,Jason Braithwaite,8:00 - 11:00 AM,Team Member,Team 1
+ENG 106 - NG,English,English (A),FALSE,PATH,Jason Braithwaite,8:00 - 11:00 AM,Team Member,Team 1
+ENG 325,English,English (A),FALSE,ONLN,Jason Braithwaite,8:00 - 11:00 AM,Team Member,Team 1
+ENG 314,English,English (A),FALSE,ONLN,Jason Braithwaite,8:00 - 11:00 AM,Team Member,Team 1
+FHGEN 211,Interdiscip Studies,Family History (A),FALSE,ONLN,Emily Galbraith,8:00 - 11:00 AM,Team Member,Team 1
+FHGEN 212,Interdiscip Studies,Family History (A),FALSE,ONLN,Emily Galbraith,8:00 - 11:00 AM,Team Member,Team 1
+FHGEN 251A,Interdiscip Studies,Family History (A),FALSE,ONLN,Emily Galbraith,8:00 - 11:00 AM,Team Member,Team 1
+FHGEN 251B,Interdiscip Studies,Family History (A),FALSE,ONLN,Emily Galbraith,8:00 - 11:00 AM,Team Member,Team 1
+FHGEN 251C,Interdiscip Studies,Family History (A),FALSE,ONLN,Emily Galbraith,8:00 - 11:00 AM,Team Member,Team 1
+FHGEN 251D,Interdiscip Studies,Family History (A),FALSE,ONLN,Emily Galbraith,8:00 - 11:00 AM,Team Member,Team 1
+FHGEN 252A,Interdiscip Studies,Family History (A),FALSE,ONLN,Emily Galbraith,8:00 - 11:00 AM,Team Member,Team 1
+FHGEN 252B,Interdiscip Studies,Family History (A),FALSE,ONLN,Emily Galbraith,8:00 - 11:00 AM,Team Member,Team 1
+FHGEN 252C,Interdiscip Studies,Family History (A),FALSE,ONLN,Emily Galbraith,8:00 - 11:00 AM,Team Member,Team 1
+FHGEN 252D,Interdiscip Studies,Family History (A),FALSE,ONLN,Emily Galbraith,8:00 - 11:00 AM,Team Member,Team 1
+FHGEN 270,Interdiscip Studies,Family History (A),FALSE,ONLN,Emily Galbraith,8:00 - 11:00 AM,Team Member,Team 1
+FHGEN 399,Interdiscip Studies,Family History (A),FALSE,ONLN,Emily Galbraith,8:00 - 11:00 AM,Team Member,Team 1
+FHGEN 130,Interdiscip Studies,Interdiscip Studies (A),FALSE,ONLN,Katy Kempton,8:00 - 11:00 AM,Team Member,Team 1
+FHGEN 140,Interdiscip Studies,Interdiscip Studies (A),FALSE,ONLN,Katy Kempton,8:00 - 11:00 AM,Team Member,Team 1
+FHGEN 160,Interdiscip Studies,Interdiscip Studies (A),FALSE,ONLN,Katy Kempton,8:00 - 11:00 AM,Team Member,Team 1
+MATH 100G - G,Mathematics,Mathematics (A),FALSE,PATH,Jonathan Manoa,8:00 - 11:00 AM,Team Member,Team 1
+MATH 100L - G,Mathematics,Mathematics (A),FALSE,PATH,Jonathan Manoa,8:00 - 11:00 AM,Team Member,Team 1
+B 370,Business Management,Business Management (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+B 424,Business Management,Business Management (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+B 424D,Business Management,Business Management (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+B 448,Business Management,Business Management (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+B 129,Business Management,Business Management (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+B 215,Business Management,Business Management (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+CIT 380,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+CIT 381,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+CIT 261,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+CIT 360,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+ME 201,Mechanical Engineering,Mechanical Engineering (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+AUTO 125,Mechanical Engineering,Mechanical Engineering (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+ME 202,Mechanical Engineering,Mechanical Engineering (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+ME 231,Mechanical Engineering,Mechanical Engineering (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+ME 172,Mechanical Engineering,Mechanical Engineering (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+MATH 221A,Mathematics,Mathematics (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+MATH 221B,Mathematics,Mathematics (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+MATH 221C,Mathematics,Mathematics (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+FDMAT 112,Mathematics,Mathematics (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+MATH 100B,Mathematics,Mathematics (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+FDWLD 101,Foundations,Foundations (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+FDWLD 201,Foundations,Foundations (A),FALSE,ONLN,Cole Herrin,8:00 - 11:00 AM,Team Member,Team 1
+COMM 150,Communication,Communication (A),FALSE,ONLN,Seth Childers,8:00 - 11:00 AM,Team Member,Team 1
+COMM 175,Communication,Communication (A),FALSE,ONLN,Seth Childers,8:00 - 11:00 AM,Team Member,Team 1
+COMM 250,Communication,Communication (A),FALSE,ONLN,Seth Childers,8:00 - 11:00 AM,Team Member,Team 1
+COMM 273,Communication,Communication (A),FALSE,ONLN,Seth Childers,8:00 - 11:00 AM,Team Member,Team 1
+COMM 125,Communication,Communication (A),FALSE,ONLN,Seth Childers,8:00 - 11:00 AM,Team Member,Team 1
+COMM 130,Communication,Communication (A),FALSE,ONLN,Seth Childers,8:00 - 11:00 AM,Team Member,Team 1
+COMM 307,Communication,Communication (A),FALSE,ONLN,Seth Childers,8:00 - 11:00 AM,Team Member,Team 1
+COMM 352,Communication,Communication (A),FALSE,ONLN,Seth Childers,8:00 - 11:00 AM,Team Member,Team 1
+COMM 310,Communication,Communication (A),FALSE,ONLN,Seth Childers,8:00 - 11:00 AM,Team Member,Team 1
+COMM 289,Communication,Communication (A),FALSE,ONLN,Seth Childers,8:00 - 11:00 AM,Team Member,Team 1
+COMM 111,Communication,Communication (A),FALSE,ONLN,Seth Childers,8:00 - 11:00 AM,Team Member,Team 1
+COMM 497R - Block 1,Communication,Communication (A),TRUE,ONLN,Seth Childers,8:00 - 11:00 AM,Team Member,Team 1
+COMM 315,Communication,Communication (A),FALSE,ONLN,Seth Childers,8:00 - 11:00 AM,Team Member,Team 1
+COMM 280,Communication,Communication (A),FALSE,ONLN,Seth Childers,8:00 - 11:00 AM,Team Member,Team 1
+FDREL 110 - Block 1,Religion,Foundations Religion (A),TRUE,ONLN,Seth Childers,8:00 - 11:00 AM,Team Member,Team 1
+FDREL 110 - Block 2,Religion,Foundations Religion (A),TRUE,ONLN,Seth Childers,8:00 - 11:00 AM,Team Member,Team 1
+FAML 498R,Family,Foundations Religion (A),FALSE,ONLN,Seth Childers,8:00 - 11:00 AM,Team Member,Team 1
+,,,FALSE,ONLN,Matthew Jones,11:00 AM - 2:00 PM,Team Lead,Team 2
+SOC 311,Sociology & Social Work,Sociology & Social Work (A),FALSE,ONLN,Johnna Franks,11:00 AM - 2:00 PM,Assistant Lead,Team 2
+SOC 111,Sociology & Social Work,Sociology & Social Work (A),FALSE,ONLN,Johnna Franks,11:00 AM - 2:00 PM,Assistant Lead,Team 2
+SOC 323,Sociology & Social Work,Sociology & Social Work (A),FALSE,ONLN,Johnna Franks,11:00 AM - 2:00 PM,Assistant Lead,Team 2
+ANTH 101,Sociology & Social Work,Sociology & Social Work (A),FALSE,ONLN,Johnna Franks,11:00 AM - 2:00 PM,Assistant Lead,Team 2
+SOC 112,Sociology & Social Work,Sociology & Social Work (A),FALSE,ONLN,Johnna Franks,11:00 AM - 2:00 PM,Assistant Lead,Team 2
+SW 260,Sociology & Social Work,Sociology & Social Work (A),FALSE,ONLN,Johnna Franks,11:00 AM - 2:00 PM,Assistant Lead,Team 2
+ED 312,Teacher Education,Teacher Education (A),FALSE,ONLN,Johnna Franks,11:00 AM - 2:00 PM,Assistant Lead,Team 2
+SPED 200,Teacher Education,Teacher Education (A),FALSE,ONLN,Johnna Franks,11:00 AM - 2:00 PM,Assistant Lead,Team 2
+SPED 441,Teacher Education,Teacher Education (A),FALSE,ONLN,Johnna Franks,11:00 AM - 2:00 PM,Assistant Lead,Team 2
+ED 200,Teacher Education,Teacher Education (A),FALSE,ONLN,Johnna Franks,11:00 AM - 2:00 PM,Assistant Lead,Team 2
+ED 202,Teacher Education,Teacher Education (A),FALSE,ONLN,Johnna Franks,11:00 AM - 2:00 PM,Assistant Lead,Team 2
+SPED 310,Teacher Education,Teacher Education (A),FALSE,ONLN,Johnna Franks,11:00 AM - 2:00 PM,Assistant Lead,Team 2
+FDREL 130 - Block 1,Religious Education,Religious Education (A),TRUE,ONLN,Laikin Guthrie,11:00 AM - 2:00 PM,Team Member,Team 2
+FDREL 200,Religious Education,Religious Education (A),FALSE,ONLN,Laikin Guthrie,11:00 AM - 2:00 PM,Team Member,Team 2
+FDREL 200 - G,Religious Education,Religious Education (A),FALSE,PATH,Laikin Guthrie,11:00 AM - 2:00 PM,Team Member,Team 2
+FDREL 121 - G,Religious Education,Religious Education (A),FALSE,PATH,Laikin Guthrie,11:00 AM - 2:00 PM,Team Member,Team 2
+FDREL 225,Religious Education,Religious Education (A),FALSE,ONLN,Laikin Guthrie,11:00 AM - 2:00 PM,Team Member,Team 2
+FDREL 250,Religious Education,Religious Education (A),FALSE,ONLN,Laikin Guthrie,11:00 AM - 2:00 PM,Team Member,Team 2
+B 475,Business,Business,FALSE,ONLN,Laikin Guthrie,11:00 AM - 2:00 PM,Team Member,Team 2
+FDINT 211,Foundations,Foundations,FALSE,ONLN,Matt Wyndham,11:00 AM - 2:00 PM,Team Member,Team 2
+FDHUM 110,Foundations,Foundations,FALSE,ONLN,Matt Wyndham,11:00 AM - 2:00 PM,Team Member,Team 2
+FAML 430,Home & Family,Home & Family (A),FALSE,ONLN,Katie Pugh,11:00 AM - 2:00 PM,Team Member,Team 2
+FCS 101,Home & Family,Home & Family (A),FALSE,ONLN,Katie Pugh,11:00 AM - 2:00 PM,Team Member,Team 2
+FAML 300,Home & Family,Home & Family (A),FALSE,ONLN,Katie Pugh,11:00 AM - 2:00 PM,Team Member,Team 2
+FAML 445,Home & Family,Home & Family (A),FALSE,ONLN,Katie Pugh,11:00 AM - 2:00 PM,Team Member,Team 2
+FAML 150 - Block 1,Home & Family,Home & Family (A),TRUE,ONLN,Katie Pugh,11:00 AM - 2:00 PM,Team Member,Team 2
+FAML 150 - Block 2,Home & Family,Home & Family (A),TRUE,ONLN,Katie Pugh,11:00 AM - 2:00 PM,Team Member,Team 2
+FAML 400,Home & Family,Home & Family (A),FALSE,ONLN,Katie Pugh,11:00 AM - 2:00 PM,Team Member,Team 2
+FAML 100,Home & Family,Home & Family (A),FALSE,ONLN,Katie Pugh,11:00 AM - 2:00 PM,Team Member,Team 2
+B 120,Business Management,Business Management (A),FALSE,ONLN,Travis Woodbury,11:00 AM - 2:00 PM,Team Member,Team 2
+B 250,Business Management,Business Management (A),FALSE,ONLN,Travis Woodbury,11:00 AM - 2:00 PM,Team Member,Team 2
+B 383,Business Management,Business Management (A),FALSE,ONLN,Travis Woodbury,11:00 AM - 2:00 PM,Team Member,Team 2
+B 101,Business Management,Business Management (A),FALSE,ONLN,Travis Woodbury,11:00 AM - 2:00 PM,Team Member,Team 2
+PSYCH 111,Psychology,Psychology,FALSE,ONLN,Travis Woodbury,11:00 AM - 2:00 PM,Team Member,Team 2
+NURS 340,Nursing,Nursing (A),FALSE,ONLN,Travis Woodbury,11:00 AM - 2:00 PM,Team Member,Team 2
+NURS 400,Nursing,Nursing (A),FALSE,ONLN,Travis Woodbury,11:00 AM - 2:00 PM,Team Member,Team 2
+CIT 352,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+CIT 353,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+CIT 336,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+CIT 110,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+WDD 100,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+CIT 301C,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+CIT 230,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+CS 165,Computer Sci & Eng,Computer Sci & Eng (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+CS 246,Computer Sci & Eng,Computer Sci & Eng (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+CS 313,Computer Sci & Eng,Computer Sci & Eng (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+CS 308,Computer Sci & Eng,Computer Sci & Eng (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+ECEN 150,Computer Sci & Eng,Computer Sci & Eng (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+CS 124,Computer Sci & Eng,Computer Sci & Eng (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+CS 432,Computer Sci & Eng,Computer Sci & Eng (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+CS 364,Computer Sci & Eng,Computer Sci & Eng (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+HS 390,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+HS 401,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+HS 420,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+HS 460,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+MA 106,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+MA 107,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+MA 111,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+MA 205,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+MATH 111,Mathematics,Foundations,FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+MATH 111 - Block 1,Mathematics,Foundations,TRUE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+MATH 109,Mathematics,Foundations,FALSE,ONLN,JJ Aragon,11:00 AM - 2:00 PM,Team Member,Team 2
+,,,FALSE,ONLN,Scott Terry,2:00 PM - 5:00 PM,Team Lead,Team 3
+FDREL 275,Religious Education,Religious Education (A),FALSE,ONLN,Sara Balter,2:00 PM - 5:00 PM,Assistant Lead,Team 3
+FDREL 301,Religious Education,Religious Education (A),FALSE,ONLN,Sara Balter,2:00 PM - 5:00 PM,Assistant Lead,Team 3
+FDREL 302,Religious Education,Religious Education (A),FALSE,ONLN,Sara Balter,2:00 PM - 5:00 PM,Assistant Lead,Team 3
+FDREL 261,Religious Education,Religious Education (A),FALSE,ONLN,Sara Balter,2:00 PM - 5:00 PM,Assistant Lead,Team 3
+FDREL 324,Religious Education,Religious Education (A),FALSE,ONLN,Sara Balter,2:00 PM - 5:00 PM,Assistant Lead,Team 3
+FDREL 325,Religious Education,Religious Education (A),FALSE,ONLN,Sara Balter,2:00 PM - 5:00 PM,Assistant Lead,Team 3
+BIO 264L,Biology,Biology (A),FALSE,ONLN,Ashley Sayre,2:00 PM - 5:00 PM,Team Member,Team 3
+BIO 265L,Biology,Biology (A),FALSE,ONLN,Ashley Sayre,2:00 PM - 5:00 PM,Team Member,Team 3
+BIO 381,Biology,Biology (A),FALSE,ONLN,Ashley Sayre,2:00 PM - 5:00 PM,Team Member,Team 3
+BIO 375,Biology,Biology (A),FALSE,ONLN,Ashley Sayre,2:00 PM - 5:00 PM,Team Member,Team 3
+BIO 264,Biology,Biology (A),FALSE,ONLN,Ashley Sayre,2:00 PM - 5:00 PM,Team Member,Team 3
+BIO 265,Biology,Biology (A),FALSE,ONLN,Ashley Sayre,2:00 PM - 5:00 PM,Team Member,Team 3
+FDSCI 205,Foundations,Foundations (A),FALSE,ONLN,Ethan Koopman,2:00 PM - 5:00 PM,Team Member,Team 3
+FDAMF 101,Foundations,Foundations (A),FALSE,ONLN,Ethan Koopman,2:00 PM - 5:00 PM,Team Member,Team 3
+FDSCI 101,Foundations,Foundations (A),FALSE,ONLN,Ethan Koopman,2:00 PM - 5:00 PM,Team Member,Team 3
+ESS 375,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Richlue Kpakor,2:00 PM - 5:00 PM,Team Member,Team 3
+HS 320,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Richlue Kpakor,2:00 PM - 5:00 PM,Team Member,Team 3
+RM 307,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Richlue Kpakor,2:00 PM - 5:00 PM,Team Member,Team 3
+HS 280,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Richlue Kpakor,2:00 PM - 5:00 PM,Team Member,Team 3
+HS 310,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Richlue Kpakor,2:00 PM - 5:00 PM,Team Member,Team 3
+HS 285,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Richlue Kpakor,2:00 PM - 5:00 PM,Team Member,Team 3
+HS 375,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Richlue Kpakor,2:00 PM - 5:00 PM,Team Member,Team 3
+HS 378,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Richlue Kpakor,2:00 PM - 5:00 PM,Team Member,Team 3
+HS 425,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Richlue Kpakor,2:00 PM - 5:00 PM,Team Member,Team 3
+HS 345,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Richlue Kpakor,2:00 PM - 5:00 PM,Team Member,Team 3
+HS 465,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Richlue Kpakor,2:00 PM - 5:00 PM,Team Member,Team 3
+RM 370,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Richlue Kpakor,2:00 PM - 5:00 PM,Team Member,Team 3
+RM 371,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Richlue Kpakor,2:00 PM - 5:00 PM,Team Member,Team 3
+B 428,Business Management,Business Management (A),FALSE,ONLN,Richlue Kpakor,2:00 PM - 5:00 PM,Team Member,Team 3
+B 240,Business Management,Business Management (A),FALSE,ONLN,Richlue Kpakor,2:00 PM - 5:00 PM,Team Member,Team 3
+B 275,Business Management,Business Management (A),FALSE,ONLN,Richlue Kpakor,2:00 PM - 5:00 PM,Team Member,Team 3
+CS 213,Computer Sci & Eng,Computer Sci & Eng (A),FALSE,ONLN,Seth Benson,2:00 PM - 5:00 PM,Team Member,Team 3
+CS 235,Computer Sci & Eng,Computer Sci & Eng (A),FALSE,ONLN,Seth Benson,2:00 PM - 5:00 PM,Team Member,Team 3
+CS 371,Computer Sci & Eng,Computer Sci & Eng (A),FALSE,ONLN,Seth Benson,2:00 PM - 5:00 PM,Team Member,Team 3
+CS 416,Computer Sci & Eng,Computer Sci & Eng (A),FALSE,ONLN,Seth Benson,2:00 PM - 5:00 PM,Team Member,Team 3
+CS 470,Computer Sci & Eng,Computer Sci & Eng (A),FALSE,ONLN,Seth Benson,2:00 PM - 5:00 PM,Team Member,Team 3
+ECEN 160,Computer Sci & Eng,Computer Sci & Eng (A),FALSE,ONLN,Seth Benson,2:00 PM - 5:00 PM,Team Member,Team 3
+CONST 320,Design & Const Mgmt,Design & Const Mgmt (A),FALSE,ONLN,Seth Benson,2:00 PM - 5:00 PM,Team Member,Team 3
+ECON 151,Economics,Economics (A),FALSE,ONLN,Seth Benson,2:00 PM - 5:00 PM,Team Member,Team 3
+ECON 150,Economics,Economics (A),FALSE,ONLN,Seth Benson,2:00 PM - 5:00 PM,Team Member,Team 3
+AGBUS 105,Economics,Economics (A),FALSE,ONLN,Seth Benson,2:00 PM - 5:00 PM,Team Member,Team 3
+AGBUS 180A,Economics,Economics (A),FALSE,ONLN,Seth Benson,2:00 PM - 5:00 PM,Team Member,Team 3
+AGBUS 180B,Economics,Economics (A),FALSE,ONLN,Seth Benson,2:00 PM - 5:00 PM,Team Member,Team 3
+SMM 140,None Listed,None Listed,FALSE,ONLN,Seth Benson,2:00 PM - 5:00 PM,Team Member,Team 3
+TA 116,Theatre and Dance,Theatre and Dance,FALSE,ONLN,Seth Benson,2:00 PM - 5:00 PM,Team Member,Team 3
+TA 402,Theatre and Dance,Theatre and Dance,FALSE,ONLN,Seth Benson,2:00 PM - 5:00 PM,Team Member,Team 3
+,,,FALSE,ONLN,Austin Swenson,5:00 PM - 8:00 PM,Team Lead,Team 4
+ART 337R,Art,Art (A),FALSE,ONLN,Mackenzy Taylor,5:00 PM - 8:00 PM,Assistant Lead,Team 4
+ART 107,Art,Art (A),FALSE,ONLN,Mackenzy Taylor,5:00 PM - 8:00 PM,Assistant Lead,Team 4
+ART 110,Art,Art (A),FALSE,ONLN,Mackenzy Taylor,5:00 PM - 8:00 PM,Assistant Lead,Team 4
+ART 331R,Art,Art (A),FALSE,ONLN,Mackenzy Taylor,5:00 PM - 8:00 PM,Assistant Lead,Team 4
+FDSCI 201,Foundations,Foundations,FALSE,ONLN,Mackenzy Taylor,5:00 PM - 8:00 PM,Assistant Lead,Team 4
+ART 160,Art,Art (A),FALSE,ONLN,Michael Hardy,5:00 PM - 8:00 PM,Team Member,Team 4
+ART 230,Art,Art (A),FALSE,ONLN,Michael Hardy,5:00 PM - 8:00 PM,Team Member,Team 4
+ART 235,Art,Art (A),FALSE,ONLN,Michael Hardy,5:00 PM - 8:00 PM,Team Member,Team 4
+ART 130,Art,Art (A),FALSE,ONLN,Michael Hardy,5:00 PM - 8:00 PM,Team Member,Team 4
+CIT 225,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,Michael Hardy,5:00 PM - 8:00 PM,Team Member,Team 4
+CIT 262,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,Michael Hardy,5:00 PM - 8:00 PM,Team Member,Team 4
+CIT 325,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,Michael Hardy,5:00 PM - 8:00 PM,Team Member,Team 4
+NURS 338,Nursing,Nursing (A),FALSE,ONLN,Michael Hardy,5:00 PM - 8:00 PM,Team Member,Team 4
+NURS 316,Nursing,Nursing (A),FALSE,ONLN,Michael Hardy,5:00 PM - 8:00 PM,Team Member,Team 4
+NURS 449,Nursing,Nursing (A),FALSE,ONLN,Michael Hardy,5:00 PM - 8:00 PM,Team Member,Team 4
+NURS 450,Nursing,Nursing (A),FALSE,ONLN,Michael Hardy,5:00 PM - 8:00 PM,Team Member,Team 4
+ACCTG 180,Accounting,Accounting (A),FALSE,ONLN,Michael Hardy,5:00 PM - 8:00 PM,Team Member,Team 4
+ACCTG 201,Accounting,Accounting (A),FALSE,ONLN,Michael Hardy,5:00 PM - 8:00 PM,Team Member,Team 4
+NUTR 150,Animal & Food Science,Animal & Food Science (A),FALSE,ONLN,Michael Hardy,5:00 PM - 8:00 PM,Team Member,Team 4
+NUTR 200,Animal & Food Science,Animal & Food Science (A),FALSE,ONLN,Michael Hardy,5:00 PM - 8:00 PM,Team Member,Team 4
+HS 240,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Emily Jones,5:00 PM - 8:00 PM,Team Member,Team 4
+HS 370,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Emily Jones,5:00 PM - 8:00 PM,Team Member,Team 4
+HS 480,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Emily Jones,5:00 PM - 8:00 PM,Team Member,Team 4
+SPAN 101,Lang & Intnl Studies,Lang & Intnl Studies (A),FALSE,ONLN,Emily Jones,5:00 PM - 8:00 PM,Team Member,Team 4
+SPAN 102,Lang & Intnl Studies,Lang & Intnl Studies (A),FALSE,ONLN,Emily Jones,5:00 PM - 8:00 PM,Team Member,Team 4
+SPAN 302,Lang & Intnl Studies,Lang & Intnl Studies (A),FALSE,ONLN,Emily Jones,5:00 PM - 8:00 PM,Team Member,Team 4
+TESOL 102,Lang & Intnl Studies,Lang & Intnl Studies (A),FALSE,ONLN,Emily Jones,5:00 PM - 8:00 PM,Team Member,Team 4
+TESOL 101,Lang & Intnl Studies,Lang & Intnl Studies (A),FALSE,ONLN,Emily Jones,5:00 PM - 8:00 PM,Team Member,Team 4
+TESOL 104,Lang & Intnl Studies,Lang & Intnl Studies (A),FALSE,ONLN,Emily Jones,5:00 PM - 8:00 PM,Team Member,Team 4
+TESOL 103,Lang & Intnl Studies,Lang & Intnl Studies (A),FALSE,ONLN,Emily Jones,5:00 PM - 8:00 PM,Team Member,Team 4
+TESOL 105,Lang & Intnl Studies,Lang & Intnl Studies (A),FALSE,ONLN,Emily Jones,5:00 PM - 8:00 PM,Team Member,Team 4
+LR 111 - Block 1,Library,Library (A),TRUE,ONLN,Emily Jones,5:00 PM - 8:00 PM,Team Member,Team 4
+LR 111 - Block 2,Library,Library (A),TRUE,ONLN,Emily Jones,5:00 PM - 8:00 PM,Team Member,Team 4
+PSYCH 201,Psychology,Psychology,FALSE,ONLN,Kyle Moore,5:00 PM - 8:00 PM,Team Member,Team 4
+PSYCH 302,Psychology,Psychology,FALSE,ONLN,Kyle Moore,5:00 PM - 8:00 PM,Team Member,Team 4
+PSYCH 112,Psychology,Psychology,FALSE,ONLN,Kyle Moore,5:00 PM - 8:00 PM,Team Member,Team 4
+PSYCH 311,Psychology,Psychology,FALSE,ONLN,Kyle Moore,5:00 PM - 8:00 PM,Team Member,Team 4
+PH 105,Physics,Physics (A),FALSE,ONLN,Kyle Moore,5:00 PM - 8:00 PM,Team Member,Team 4
+PH 121,Physics,Physics (A),FALSE,ONLN,Kyle Moore,5:00 PM - 8:00 PM,Team Member,Team 4
+ECI 001,Languages & Internationa,Languages & Internationa (A),FALSE,ONLN,Kyle Moore,5:00 PM - 8:00 PM,Team Member,Team 4
+ECI 002,Languages & Internationa,Languages & Internationa (A),FALSE,ONLN,Kyle Moore,5:00 PM - 8:00 PM,Team Member,Team 4
+ACCTG 205,Accounting,Accounting (A),FALSE,ONLN,Kyle Moore,5:00 PM - 8:00 PM,Team Member,Team 4
+ACCTG 202,Accounting,Accounting (A),FALSE,ONLN,Kyle Moore,5:00 PM - 8:00 PM,Team Member,Team 4
+BIO 221,Biology,Biology (A),FALSE,ONLN,Casey Robinson,5:00 PM - 8:00 PM,Team Member,Team 4
+BIO 230,Biology,Biology (A),FALSE,ONLN,Casey Robinson,5:00 PM - 8:00 PM,Team Member,Team 4
+BIO 475,Biology,Biology (A),FALSE,ONLN,Casey Robinson,5:00 PM - 8:00 PM,Team Member,Team 4
+B 321,Business Management,Business Management (A),FALSE,ONLN,Casey Robinson,5:00 PM - 8:00 PM,Team Member,Team 4
+CIT 160,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,Casey Robinson,5:00 PM - 8:00 PM,Team Member,Team 4
+CIT 260,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,Casey Robinson,5:00 PM - 8:00 PM,Team Member,Team 4
+CIT 270,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,Casey Robinson,5:00 PM - 8:00 PM,Team Member,Team 4
+CIT 111,Computer Info Technology,Computer Info Technology (A),FALSE,ONLN,Casey Robinson,5:00 PM - 8:00 PM,Team Member,Team 4
+B 361,Business Management,Business Management (A),FALSE,ONLN,Felipe Chora Chavez,5:00 PM - 8:00 PM,Team Member,Team 4
+B 483,Business Management,Business Management (A),FALSE,ONLN,Felipe Chora Chavez,5:00 PM - 8:00 PM,Team Member,Team 4
+B 341,Business Management,Business Management (A),FALSE,ONLN,Felipe Chora Chavez,5:00 PM - 8:00 PM,Team Member,Team 4
+FDSCI 203,Foundations,Foundations,FALSE,ONLN,Felipe Chora Chavez,5:00 PM - 8:00 PM,Team Member,Team 4
+ENG 106L - G,English,English (A),FALSE,PATH,Meghan Cottam,5:00 PM - 8:00 PM,Team Member,Team 4
+ENG 107,English,English (A),FALSE,ONLN,Meghan Cottam,5:00 PM - 8:00 PM,Team Member,Team 4
+ENG 251,English,English (A),FALSE,ONLN,Meghan Cottam,5:00 PM - 8:00 PM,Team Member,Team 4
+FDENG 301,English,English (A),FALSE,ONLN,Meghan Cottam,5:00 PM - 8:00 PM,Team Member,Team 4
+GS 101,General Studies,General Studies (A),FALSE,ONLN,Scott O'Neal,8:00 AM - 5:00 PM,Team Lead,Full-Time Team
+GS 294,General Studies,General Studies (A),FALSE,ONLN,Scott O'Neal,8:00 AM - 5:00 PM,Team Lead,Full-Time Team
+GS 111 - Block 1,General Studies,General Studies (A),TRUE,ONLN,Scott O'Neal,8:00 AM - 5:00 PM,Team Lead,Full-Time Team
+GS 111 - Block 2,General Studies,General Studies (A),TRUE,ONLN,Scott O'Neal,8:00 AM - 5:00 PM,Team Lead,Full-Time Team
+GS 105,General Studies,General Studies (A),FALSE,ONLN,Scott O'Neal,8:00 AM - 5:00 PM,Team Lead,Full-Time Team
+GEOL 111,Geology,General Studies (A),FALSE,ONLN,Scott O'Neal,8:00 AM - 5:00 PM,Team Lead,Full-Time Team
+RM 304,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Scott O'Neal,8:00 AM - 5:00 PM,Team Lead,Full-Time Team
+HS 391,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Scott O'Neal,8:00 AM - 5:00 PM,Team Lead,Full-Time Team
+RM 373R,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Scott O'Neal,8:00 AM - 5:00 PM,Team Lead,Full-Time Team
+RM 471,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Scott O'Neal,8:00 AM - 5:00 PM,Team Lead,Full-Time Team
+,,,FALSE,ONLN,Johanna Franks,8:00 AM - 5:00 PM,Assistant Lead,Full-Time Team
+B 301,Business Management,Business Management (A),FALSE,ONLN,Anne Chambers,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+B 410,Business Management,Business Management (A),FALSE,ONLN,Anne Chambers,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+B 433,Business Management,Business Management (A),FALSE,ONLN,Anne Chambers,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+B 320,Business Management,Business Management (A),FALSE,ONLN,Anne Chambers,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+B 100,Business Management,Business Management (A),FALSE,ONLN,Anne Chambers,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+POLSC 170,Hist Geog & PoliSci,Hist Geog & PoliSci (A),FALSE,ONLN,Anne Chambers,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+POLSC 150,Hist Geog & PoliSci,Hist Geog & PoliSci (A),FALSE,ONLN,Anne Chambers,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+POLSC 110,Hist Geog & PoliSci,Hist Geog & PoliSci (A),FALSE,ONLN,Anne Chambers,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FDMAT 108,Mathematics,Foundations,FALSE,ONLN,Nate Hjorth,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FDMAT 215,Mathematics,Foundations,FALSE,ONLN,Nate Hjorth,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+HRHP 131,Health Rec & Human Pfrm,Health Rec & Human Pfrm (A),FALSE,ONLN,Nate Hjorth,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+CONST 380,Construction,Michael Session,FALSE,ONLN,Nate Hjorth,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FDREL 121,Religious Education,Religious Education (A),FALSE,ONLN,Nate Hjorth,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FDREL 122,Religious Education,Religious Education (A),FALSE,ONLN,Nate Hjorth,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FDREL 212,Religious Education,Religious Education (A),FALSE,ONLN,Nate Hjorth,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FDREL 212 - Block 2,Religious Education,Religious Education (A),TRUE,ONLN,Nate Hjorth,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FDREL 211,Religious Education,Religious Education (A),FALSE,ONLN,Nate Hjorth,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FDREL 211 - Block 2,Religious Education,Religious Education (A),TRUE,ONLN,Nate Hjorth,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FDREL 333,Religious Education,Religious Education (A),FALSE,ONLN,Nate Hjorth,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FDREL 250 - NG,Religious Education,Religious Education (A),FALSE,PATH,Nate Hjorth,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FAML 360,Home & Family,Home & Family (A),FALSE,ONLN,Ashwini Krishnan,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FAML 160,Home & Family,Home & Family (A),FALSE,ONLN,Ashwini Krishnan,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+CHILD 320,Home & Family,Home & Family (A),FALSE,ONLN,Ashwini Krishnan,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FCS 340,Home & Family,Home & Family (A),FALSE,ONLN,Ashwini Krishnan,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+CHILD 300,Home & Family,Home & Family (A),FALSE,ONLN,Ashwini Krishnan,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+CHILD 310,Home & Family,Home & Family (A),FALSE,ONLN,Ashwini Krishnan,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+CHILD 210,Home & Family,Home & Family (A),FALSE,ONLN,Ashwini Krishnan,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FAML 220,Home & Family,Home & Family (A),FALSE,ONLN,Ashwini Krishnan,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FAML 460,Home & Family,Home & Family (A),FALSE,ONLN,Ashwini Krishnan,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FAML 200,Home & Family,Home & Family (A),FALSE,ONLN,Ashwini Krishnan,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FHGEN 111,Interdiscip Studies,Interdiscip Studies (A),FALSE,ONLN,Ashwini Krishnan,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FHGEN 112,Interdiscip Studies,Interdiscip Studies (A),FALSE,ONLN,Ashwini Krishnan,8:00 AM - 5:00 PM,Team Member,Full-Time Team
+FHGEN 120,Interdiscip Studies,Interdiscip Studies (A),FALSE,ONLN,Ashwini Krishnan,8:00 AM - 5:00 PM,Team Member,Full-Time Team
