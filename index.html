@@ -8,8 +8,12 @@
     <script src='http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.0/handlebars.min.js'></script>
     <link rel="stylesheet" href="jquery-ui-1.12.1.custom/jquery-ui.min.css">
     <script src="jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
-    <script src="js/index.js"></script>
+    <script src="https://d3js.org/d3-dsv.v1.min.js"></script>
+    <script src="portfolio_display_files/index.js"></script>
+    <script src="portfolio_display_files/csvToJson.js"></script>
+    <link  rel="icon" href="favicon.png" type="image/png">
     <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,900" rel="stylesheet">
 </head>
 
 <body>
@@ -19,18 +23,18 @@
             <div id="accordion">
             {{#each Teams}}
                 <div class="heading">
-                    <h3>{{"Team Number"}}</h3>
+                    <h1>{{"Team Number"}}</h1>
                     <div class="heading-container">
-                        <h4>Team Lead: {{"Team Lead"}}</h4>
-                        <h5>Assistant Lead: {{"Assistant Lead"}}</h5>
+                        <h2>Team Lead: {{"Team Lead"}}</h2>
+                        <h3>Assistant Lead: {{"Assistant Lead"}} | Shift: {{"Work Hours"}}</h3>
                     </div>
-                </div>  
+                </div>
                 <div class="content">
                     {{#each TeamMembers}}
                     <div class="subContent">
-                        <h6>{{"Student Name"}}</h6>
+                        <h2>{{"Student Name"}}</h2>
                             {{#each Courses}}
-                                <p>{{"Course Code"}} - {{Department}}</p>
+                                <p><span class = "code">{{"Course Code"}}</span> - {{Department}}</p>
                             {{/each}}
                     </div>
                 {{/each}}</div>

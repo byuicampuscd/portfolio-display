@@ -3,11 +3,8 @@
 //read in csv and parse
 //convert to structure needed
 //export JSON object
-var fs = require('fs')
-var dsv = require('d3-dsv')
-var util = require('util')
-var portfolioInfo = fs.readFileSync('portfolio-info.csv', 'utf-8')
-var courses = dsv.csvParse(portfolioInfo)
+function buildTree(courses){
+
 var jsonCourses = {
     Teams: []
 }
@@ -90,7 +87,5 @@ for(var student in students){
         jsonCourses.Teams[4].TeamMembers.push(teamMem)
     }
 }
-
-console.log(util.inspect(jsonCourses, false, null))
-//save the json file
-fs.writeFileSync('test.json', jsonCourses)
+    return jsonCourses
+}

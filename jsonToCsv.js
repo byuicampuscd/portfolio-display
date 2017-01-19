@@ -72,14 +72,3 @@ fs.writeFileSync('Portfolio Export.csv', coursesCSV)
 } catch(err){
     console.log(err)
 }
-    /*
-    function readCSV(filename){
-        var fileText
-        try{
-            fileText = fs.readFileSync(filename, 'utf8')
-            console.log(fileText)
-        } catch(err){
-            console.log(err)
-        }
-    }
-    readCSV('portfolio.csv')*/
